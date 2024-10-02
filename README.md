@@ -23,6 +23,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+    <a href="https://sketchfab.com/mego3g"><img src="C:\Users\dell.000\Downloads\a81e1fd93fc053fed8a5f56640f886f8-v2.png" height="40" alt="Sketchfab logo"></a>
+
+  
 </div>
 
 ###
